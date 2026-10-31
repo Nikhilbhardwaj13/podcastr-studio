@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+target/
+backend/.mvn/wrapper/apache-maven-*/
+.idea/
+*.iml
+*.log
